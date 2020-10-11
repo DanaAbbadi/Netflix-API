@@ -14,8 +14,8 @@ ______________________________________
 
 ## Technologies
 
-Python 3.7
-Django
-Django.test
-Django RESTFRAMEWORK
-postgres
+* Python 3.7
+* Django
+* Django.test
+* Django RESTFRAMEWORK
+* postgres
